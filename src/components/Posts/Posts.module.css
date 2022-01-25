@@ -1,0 +1,13 @@
+.post {
+    margin-top: 15px;
+    padding: 15px;
+    border: 1px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.post__input {
+    margin-top: 15px;
+}
+

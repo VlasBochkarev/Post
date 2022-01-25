@@ -1,0 +1,9 @@
+.loader {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.loader__text {
+    margin-left: 15px;
+
+}
